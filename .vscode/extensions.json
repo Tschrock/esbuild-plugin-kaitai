@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "EditorConfig.EditorConfig",
+        "fudgepops.kaitai-struct-vscode",
+        "redhat.vscode-yaml",
+        "sygene.auto-correct",
+    ],
+}

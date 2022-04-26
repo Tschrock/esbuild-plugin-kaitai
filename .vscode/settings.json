@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.ksy": "yaml"
+    },
+    "auto-correct.dictionary": [
+      {
+        "languages": ["*"],
+        "words": {
+          "kys": "ksy",
+        }
+      }
+    ],
+}
